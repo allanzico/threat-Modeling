@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Threat Model- Green",
+    "owner": "Allan",
+    "description": "User map actions model"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Threat Model- Green",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Vadim, Jannis, Martin T, Martin P"
+  }
+}
